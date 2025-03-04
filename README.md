@@ -78,3 +78,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any inquiries, please contact [jafaruomeiza2@gmail.com](jafaruomeiza2@gmail.com).
 
 Thank you for visiting the Online Store project! We hope you enjoy your shopping experience.
+
+#EddieMujafar
